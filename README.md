@@ -1,54 +1,22 @@
-# README Template
+# README
 
-Below is a template provided for use when building your README file for students.
+# Project Title: Building a Recommendation System with Data from IBM (Udacity Data Scientist Project)
 
-# Project Title
-
-Project description goes here.
+Project task was to build a recommendation system for articles on the IBM platform with the methods learned in the Data Scientist Nanodegree.
 
 ## Getting Started
 
-Instructions for how to get a copy of the project running on your local machine.
+The project was done in a local environment and is hosted on my public Github repo. Final output is the html conversion of the Jupyter notebook.
 
 ### Dependencies
 
-```
-Examples here
-```
+Dependencies for the environment can be found in the "requirements.txt" file.
 
 ### Installation
 
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
+* Configure a python environment with "python3 -m venv .venv".
+* Activate the environment.
+* Install dependencies with "pip install -r requirements.txt".
 
 ## License
 
